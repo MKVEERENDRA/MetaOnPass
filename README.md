@@ -38,7 +38,7 @@ React Three Fiber For embedding 3D experiences in React
  Unity For XR experiences
 ##### Installation
 1. Clone the repository
-git clone https://github.com/your-username/metaonpass.git
+git clone https://github.com/MKVEERENDRA/MetaOnPass.git
 cd metaonpass
 2. Install dependencies
 
